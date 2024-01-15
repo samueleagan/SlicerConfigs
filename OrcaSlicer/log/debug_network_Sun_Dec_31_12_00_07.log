@@ -1,0 +1,56 @@
+[2023-12-31 12:00:07.970846 -06:00] [I] [T 5478521]: init log
+[2023-12-31 12:00:07.970904 -06:00] [I] [T 5478521]: Version: 01.07.07.07
+[2023-12-31 12:00:07.970928 -06:00] [I] [T 5478521]: Agent: set_cert_dir_name, dir=/Applications/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2023-12-31 12:00:07.971059 -06:00] [I] [T 5478521]: set_on_server_connected_fn
+[2023-12-31 12:00:07.971061 -06:00] [I] [T 5478521]: set_on_printer_connected_fn
+[2023-12-31 12:00:07.971063 -06:00] [I] [T 5478521]: set_get_country_code_fn
+[2023-12-31 12:00:07.971065 -06:00] [I] [T 5478521]: set_on_local_connect_fn
+[2023-12-31 12:00:07.971086 -06:00] [I] [T 5478521]: set_on_message_fn
+[2023-12-31 12:00:07.971088 -06:00] [I] [T 5478521]: set_on_local_message_fn
+[2023-12-31 12:00:07.971089 -06:00] [I] [T 5478521]: set_queue_on_main_fn
+[2023-12-31 12:00:07.971149 -06:00] [I] [T 5478521]: set host to https://api.bambulab.com/v1
+[2023-12-31 12:00:07.971151 -06:00] [I] [T 5478521]: region update iot = https://api.bambulab.com/v1
+[2023-12-31 12:00:07.971151 -06:00] [I] [T 5478521]: region update api = https://api.bambulab.com/
+[2023-12-31 12:00:07.971152 -06:00] [I] [T 5478521]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2023-12-31 12:00:07.971153 -06:00] [I] [T 5478521]: region update tutk = US
+[2023-12-31 12:00:07.971153 -06:00] [I] [T 5478521]: region update base domain = bambulab.com
+[2023-12-31 12:00:07.971154 -06:00] [I] [T 5478521]: region update environment = 
+[2023-12-31 12:00:07.971155 -06:00] [I] [T 5478521]: region update wifi_code = US
+[2023-12-31 12:00:07.971155 -06:00] [I] [T 5478521]: region update design = https://bambulab.com
+[2023-12-31 12:00:07.971156 -06:00] [I] [T 5478521]: Agent: load_config
+[2023-12-31 12:00:07.971172 -06:00] [I] [T 5478521]: load_user_info
+[2023-12-31 12:00:07.971173 -06:00] [I] [T 5478521]: save_user_info
+[2023-12-31 12:00:07.971181 -06:00] [I] [T 5478521]: set_on_server_connected_fn
+[2023-12-31 12:00:07.971182 -06:00] [I] [T 5478521]: set_on_printer_connected_fn
+[2023-12-31 12:00:07.971183 -06:00] [I] [T 5478521]: set_get_country_code_fn
+[2023-12-31 12:00:07.971184 -06:00] [I] [T 5478521]: set_on_local_connect_fn
+[2023-12-31 12:00:07.971184 -06:00] [I] [T 5478521]: set_on_message_fn
+[2023-12-31 12:00:07.971185 -06:00] [I] [T 5478521]: set_on_local_message_fn
+[2023-12-31 12:00:07.971186 -06:00] [I] [T 5478521]: set_queue_on_main_fn
+[2023-12-31 12:00:07.971194 -06:00] [I] [T 5478521]: set_on_http_error_fn
+[2023-12-31 12:00:07.971195 -06:00] [I] [T 5478521]: ssdp: stop()
+[2023-12-31 12:00:07.971367 -06:00] [I] [T 5478521]: Network Interface List: 2
+[2023-12-31 12:00:21.487486 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:00:21.487510 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:00:21.488187 -06:00] [I] [T 5478521]: save_user_info
+[2023-12-31 12:00:21.488195 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:00:21.692924 -06:00] [I] [T 5478521]: connect_cloud_mqtt
+[2023-12-31 12:00:22.190104 -06:00] [I] [T 5479966]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:3455208520:870f
+[2023-12-31 12:00:22.190230 -06:00] [I] [T 5479966]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:3455208520:870f
+[2023-12-31 12:00:22.190246 -06:00] [I] [T 5479966]: cloud_conn_callback::connected!
+[2023-12-31 12:00:22.190382 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:00:22.190396 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:00:22.191517 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:00:22.191523 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:00:22.192515 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:00:22.192521 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:22:04.862663 -06:00] [I] [T 5478521]: stop_subscribe, machine = , module = app
+[2023-12-31 12:22:05.127088 -06:00] [I] [T 5479966]: cloud_conn_callback::connection_lost!, cause = 
+[2023-12-31 12:22:05.386062 -06:00] [I] [T 5479966]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:3455208520:870f
+[2023-12-31 12:22:05.386356 -06:00] [I] [T 5479966]: cloud_conn_callback::connected!
+[2023-12-31 12:22:05.386620 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:22:05.386630 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:22:05.387751 -06:00] [I] [T 5478521]: set monitor machine = 
+[2023-12-31 12:22:05.387756 -06:00] [I] [T 5478521]: Agent: save_config
+[2023-12-31 12:31:27.281189 -06:00] [I] [T 5479966]: cloud_conn_callback::connection_lost!, cause = 
+[2023-12-31 17:07:55.081630 -06:00] [I] [T 5478521]: Agent: save_config

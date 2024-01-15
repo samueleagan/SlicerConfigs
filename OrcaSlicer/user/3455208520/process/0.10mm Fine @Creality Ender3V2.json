@@ -1,0 +1,10 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.12mm Fine @Creality Ender3V2",
+    "layer_height": "0.1",
+    "name": "0.10mm Fine @Creality Ender3V2",
+    "print_settings_id": "0.10mm Fine @Creality Ender3V2",
+    "support_type": "tree(auto)",
+    "version": "1.8.0.0"
+}

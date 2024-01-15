@@ -1,0 +1,11 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V2",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Creality Ender3V2 - TreeOrganic",
+    "print_settings_id": "0.20mm Standard @Creality Ender3V2 - TreeOrganic",
+    "support_style": "organic",
+    "support_type": "tree(auto)",
+    "version": "1.8.0.0"
+}
